@@ -1,7 +1,7 @@
 name: Govenor
 favicon: null
-layout_spectrum: 0.9847239886876196
-typography_spectrum: 0.8143213030416518
+layout_spectrum: 1
+typography_spectrum: 0.87279
 cta:
   domain: null
   bucket: null
